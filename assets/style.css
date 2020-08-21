@@ -15,8 +15,13 @@ ul {
 
 .h1 {
     font-family: 'Julius Sans One', sans-serif;
+    font-weight: bold;
 }
 
 .navbar {
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.container {
     font-family: 'Julius Sans One', sans-serif;
 }
