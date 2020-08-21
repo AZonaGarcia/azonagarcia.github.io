@@ -14,7 +14,7 @@ As an adult changing careers, I have never "built" a portfolio. Every project, e
     - [X] Add link to LinkedIn
     - [X] Add email address
     - [X] Add phone number
-    - []X Add link to PDF Resume
+    - [X] Add link to PDF Resume
     - [X] Add list of projects
         - [X] Add project Title
         - [X] Add link to deployed version
