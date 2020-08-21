@@ -36,6 +36,6 @@ As an adult changing careers, I have never "built" a portfolio. Every project, e
 ## Link to Website:
 [Zona Garcia Portfolio](https://azonagarcia.github.io/)
 
-![AZGarcia About Me](https://github.com/azonagarcia/azonagarcia.github.io/blob/master/./assets/images/azgarciAboutMeScreenshot.png)
+![AZGarcia About Me](https://github.com/azonagarcia/azonagarcia.github.io/blob/master/./assets/images/azgarciaAboutMeScreenshot.png)
 ![AZGarcia Portfolio Screenshot](https://github.com/azonagarcia/azonagarcia.github.io/blob/master/./assets/images/azgarciaPortfolioScreenshot.png)
 ![AZGarcia About Me Screenshot](https://github.com/azonagarcia/azonagarcia.github.io/blob/master/./assets/images/azgarciaContactMeScreenshot.png)
