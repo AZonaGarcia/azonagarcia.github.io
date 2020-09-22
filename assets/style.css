@@ -25,3 +25,8 @@ ul {
 .container {
     font-family: 'Julius Sans One', sans-serif;
 }
+
+#screenshot {
+    max-width: 500px;
+    max-height: 500px;
+}
